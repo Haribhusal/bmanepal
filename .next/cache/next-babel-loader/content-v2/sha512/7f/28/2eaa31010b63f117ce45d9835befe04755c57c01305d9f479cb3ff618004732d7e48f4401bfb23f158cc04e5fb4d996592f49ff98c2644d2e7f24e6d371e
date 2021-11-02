@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React from \"react\";\n\nconst DownloadFile = () => {\n  return /*#__PURE__*/_jsx(\"div\", {\n    children: \"Download FIle\"\n  });\n};\n\nexport default DownloadFile;","map":null,"metadata":{},"sourceType":"module"}
