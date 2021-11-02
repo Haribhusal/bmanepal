@@ -199,8 +199,8 @@ const Main = () => {
                                   className="text-muted f14 mb-0"
                                 >
                                   I acknowledge that I have read and understood
-                                  the terms stated in the KPMG online privacy
-                                  statement
+                                  the terms stated in the Benchmark Advisors
+                                  online privacy statement
                                 </label>
                               </div>
                             </div>

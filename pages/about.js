@@ -49,7 +49,7 @@ export default function About() {
                   </p>
                 </div>
               </div>
-            </div>
+            </div>``````
             <div className="row">
               <div className="col-sm-12">
                 <div className="titlewrapper">
