@@ -49,7 +49,8 @@ export default function About() {
                   </p>
                 </div>
               </div>
-            </div>``````
+            </div>
+
             <div className="row">
               <div className="col-sm-12">
                 <div className="titlewrapper">
@@ -82,7 +83,7 @@ export default function About() {
                   <div className="content">
                     <figure>
                       <img
-                        src="/images/member1.jpeg"
+                        src="/images/dipesh-shah.jpg"
                         alt=""
                         className="img-fluid"
                       />
