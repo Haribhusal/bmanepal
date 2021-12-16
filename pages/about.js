@@ -100,9 +100,9 @@ export default function About() {
                         with corporates viz. Bharti Airtel Limited, Gurgaon and
                         First Data Corporation, Mumbai. He has good working
                         experience with startups in India viz. Flipkart and
-                        Udaan and several startups in Nepal. He currently
-                        supervises the Startup &amp; Investment Consulting and
-                        Development Sector Consulting.
+                        several startups in Nepal. He currently supervises the
+                        Startup &amp; Investment Consulting and Development
+                        Sector Consulting.
                       </div>
                     </div>
                   </div>
